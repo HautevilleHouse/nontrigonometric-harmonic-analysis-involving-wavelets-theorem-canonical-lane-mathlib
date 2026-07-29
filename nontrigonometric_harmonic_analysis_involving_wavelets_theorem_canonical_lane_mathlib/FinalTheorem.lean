@@ -1,0 +1,9 @@
+import nontrigonometric_harmonic_analysis_involving_wavelets_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace nontrigonometric_harmonic_analysis_involving_wavelets_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end nontrigonometric_harmonic_analysis_involving_wavelets_theorem_canonical_lane_mathlib
+end HautevilleHouse
